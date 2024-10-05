@@ -4,13 +4,7 @@
 
 Check out the live version of the application on Netlify:
 
-([https://your-netlify-link.netlify.app](https://zysktech-assessment.netlify.app/))
-
-## How to Run Locally
-
-### Prerequisites
-
-- [Node.js](https://nodejs.org/en/download/) (v14+ recommended)
+([Zysk Technology-Assessment](https://zysktech-assessment.netlify.app/))
 
 ### Steps to Run
 
